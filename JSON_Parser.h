@@ -1,5 +1,5 @@
-#ifndef __SKYLINE_JSON_WRITE_READER
-#define __SKYLINE_JSON_WRITE_READER
+#ifndef __JSON_WRITE_READER
+#define __JSON_WRITE_READER
 
 // Simple JSON Creator
 // Author: Jayce Young
